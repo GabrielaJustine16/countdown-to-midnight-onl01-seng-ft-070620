@@ -9,4 +9,6 @@ def countdown(x)
 end
 end
 
-def 
+def countdown_with_sleep (x)
+  while x>10 
+  puts 
